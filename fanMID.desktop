@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo /home/epilepsia/.fan/fanmid
+Name=FanMID
+Comment=FanMID
+Icon=/home/epilepsia/.fan/fan2.png

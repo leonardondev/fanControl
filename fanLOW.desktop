@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo /home/epilepsia/.fan/fanlow
+Name=FanLOW
+Comment=FanLOW
+Icon=/home/epilepsia/.fan/fan1.png

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Exec=sudo /home/epilepsia/.fan/fanup
+Name=FanUP
+Comment=FanUP
+Icon=/home/epilepsia/.fan/fan3.png
