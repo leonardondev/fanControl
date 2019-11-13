@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# First su in as root
+#sudo su
+
+# Then set fan control to manual mode
+# ODD
+echo 2500 > /sys/devices/platform/applesmc.768/fan1_min
+
+# HDD
+echo 3500 > /sys/devices/platform/applesmc.768/fan2_min
+
+# CPU
+echo 2800 > /sys/devices/platform/applesmc.768/fan3_min

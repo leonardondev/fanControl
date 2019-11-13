@@ -1,0 +1,23 @@
+fan1_input    1400
+fan1_label    ODD
+fan1_manual   0
+fan1_max      4350
+fan1_min      1400
+fan1_output   1400
+fan1_safe     bin
+
+fan2_input    1098
+fan2_label    HDD
+fan2_manual   0
+fan2_max      6300
+fan2_min      1100
+fan2_output   1100
+fan2_safe     bin
+
+fan3_input    1199
+fan3_label    CPU
+fan3_manual   0
+fan3_max      2600
+fan3_min      1200
+fan3_output   1200
+fan3_safe     bin
